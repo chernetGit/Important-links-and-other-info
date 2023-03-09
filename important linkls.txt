@@ -1,6 +1,7 @@
 					Links
 #Hey my guys. You may reserve or put every links of important sites in every asspects here!
-1)
+  
+1)https://www.atlassian.com/git/tutorials/saving-changes/git-commit                ,,,git link,,,,
 2)
 3)
 4)https://www.youtube.com/watch?v=Guva-oab1pg  ***Git extensions***
